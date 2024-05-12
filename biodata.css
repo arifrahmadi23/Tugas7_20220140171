@@ -1,0 +1,93 @@
+
+
+
+.navbar {
+    padding: 15px 20px;
+}
+
+.navbar-text {
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5em;
+}
+
+.nav-link {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2em;
+}
+
+/* Styling header */
+.header {
+    background-color: #f8f9fa;
+}
+
+#tanggal-jam {
+    font-family: 'Crimson Pro', serif;
+    font-size: 1.2em;
+}
+
+/* Styling footer */
+.footer {
+    padding: 50px 0;
+}
+
+.footer h3 {
+    font-family: 'Pacifico', cursive;
+}
+
+.footer p {
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+
+
+/* Styling container */
+.container {
+    margin-top: 3rem;
+}
+
+/* Styling nama */
+h2 {
+    font-family: 'Pacifico', cursive;
+    margin-bottom: 1rem;
+}
+
+/* Styling detail */
+p {
+    font-family: 'Playfair Display', serif;
+}
+
+/* Styling riwayat sekolah */
+ul {
+    padding-left: 1.2rem;
+}
+
+/* Styling alamat */
+p:nth-of-type(5) {
+    margin-top: 1rem;
+}
+
+/* Styling gambar profil */
+.col-md-4 img {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling kolom detail */
+.col-md-8 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/* Responsiveness */
+@media (max-width: 768px) {
+    .col-md-4 {
+        text-align: center;
+    }
+    .col-md-8 {
+        text-align: center;
+    }
+}

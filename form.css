@@ -1,0 +1,52 @@
+
+
+
+.navbar {
+    padding: 15px 20px;
+}
+
+.navbar-text {
+    font-family: 'Pacifico', cursive;
+    font-size: 1.5em;
+}
+
+.nav-link {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.2em;
+}
+
+/* Styling header */
+.header {
+    background-color: #f8f9fa;
+}
+
+#tanggal-jam {
+    font-family: 'Crimson Pro', serif;
+    font-size: 1.2em;
+}
+
+/* Styling footer */
+.footer {
+    padding: 50px 0;
+}
+
+.footer h3 {
+    font-family: 'Pacifico', cursive;
+}
+
+.footer p {
+    font-family: 'Playfair Display', serif;
+}
+
+/* Styling nama */
+h2 {
+    font-family: 'Pacifico', cursive;
+    margin-bottom: 1rem;
+}
+
+/* Styling detail */
+p {
+    font-family: 'Playfair Display', serif;
+}
+
+
